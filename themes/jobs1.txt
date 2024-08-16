@@ -1,0 +1,8 @@
+juge
+guide
+soldat
+acteur
+artist
+avocat
+pilote
+voyant

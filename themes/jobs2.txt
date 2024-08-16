@@ -1,0 +1,15 @@
+pompier
+rappeur
+pecheur
+rappeur
+peintre
+medecin
+livreur
+ouvrier
+facteur
+chanteur
+plombier
+policier
+tailleur
+musicien
+banquier

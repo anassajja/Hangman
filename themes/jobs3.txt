@@ -1,0 +1,17 @@
+menuisier
+infirmier
+couturier
+chirugien
+chauffeur
+boulanger
+militaire
+astronaute
+commercial
+mecanicien
+enseignant 
+professeur
+pharmacien
+photographe
+veterinaire
+electricien
+estheticien
